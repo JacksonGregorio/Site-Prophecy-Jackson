@@ -1,0 +1,27 @@
+.button1 {
+    background: 
+      linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)) padding-box,
+      linear-gradient(90deg, #00C4F4, #000000, #00C4F4) border-box;
+    color: #fdfdfd;
+    padding: 10px 40px;
+    border: 5px solid transparent;
+    border-radius: 70px;
+    display: inline-block;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+
+
+.button1:hover {
+    background: 
+      linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)) padding-box,
+      linear-gradient(80deg, #00C4F4, #00C4F4, #00C4F4) border-box;
+    color: #00C4F4;
+    padding: 10px 40px;
+    border: 5px solid transparent;
+    border-radius: 70px;
+    display: inline-block;
+    font-size: 17px;
+    text-decoration: none;
+}

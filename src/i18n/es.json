@@ -1,0 +1,201 @@
+{
+    "translation": {
+        "HeaderComponent": {
+            "home": "Inicio",
+
+            "PT-BR": "ES-ES",
+
+            "graphics": "Gráfico",
+
+            "faq": "Pregunta",
+
+            "contactus": "Contatos",
+
+            "contact": "CONTATO",
+
+            "team": "Time",
+
+            "more": "Mais"
+        },
+
+        "BannerArea": {
+            "bannermain": "PROPHECY: La Evolución de Alta Frecuencia",
+
+            "bannerstart": "Inicio de ICO"
+        },
+
+        "GraphArea": {
+            "title": "Acerca de Gráficos",
+
+            "subtitle": "Gráficos en Tiempo Real para Forex",
+
+            "text": "Los gráficos en tiempo real de Forex ofrecen a los traders información inmediata, permitiendo decisiones informadas y un mejor rendimiento",
+
+            "subtext1": "Los gráficos en tiempo real de Forex ofrecen información inmediata del mercado para decisiones rápidas",
+
+            "subtext2": "Estos gráficos permiten respuestas precisas a los cambios del mercado, mejorando las estrategias",
+
+            "subtext3": "Los datos en tiempo real mejoran el rendimiento y la gestión del riesgo",
+
+            "subtext4": "Los traders pueden capitalizar rápidamente las oportunidades de beneficio"
+        },
+
+        "ChooseArea": {
+            "title": "Por qué elegirnos",
+
+            "subtitle": "Por qué elegir nuestro Prophecy",
+
+            "subtitlepayment": "Pago seguro para usted",
+
+            "textpayment": "Nuestra plataforma garantiza pagos seguros, proporcionando tranquilidad para sus transacciones financieras.",
+
+            "subtitletransfer": "Transferencia de Forex en Tiempo Real",
+
+            "texttransfer": "Acceda a datos de Forex en tiempo real, permitiendo decisiones informadas y operaciones oportunas.",
+
+            "subtitlemeta": "Integración con MetaTrader5",
+
+            "textmeta": "La integración perfecta con MetaTrader simplifica su experiencia de trading.",
+
+            "subtitlesecurity": "Seguridad de transacciones",
+
+            "textsecurity": "Damos prioridad a la seguridad de las transacciones, protegiendo sus actividades financieras."
+        },
+
+        "ContactArea": {
+            "textcontact": "Póngase en contacto",
+
+            "Namecontact": "Nombre",
+
+            "messagecontact": "Mensaje",
+
+            "messagesend": "Enviar mensaje",
+
+            "emailcontact": "Email aquí",
+
+            "talkcontact": "Hablemos con nosotros"
+        },
+
+        "NewsArea": {
+            "title": "Qué hay de nuevo sobre nosotros",
+
+            "subtitle": "La Plataforma de Negociación Revolucionaria Que Supera a los HFT Convencionales",
+
+            "text": "HTS revoluciona la negociación financiera con tecnologías avanzadas, inteligencia artificial y lenguaje Python. Funciones como el Smart Trailing Stop y las validaciones virtuales optimizan la experiencia y el rendimiento de los inversores, superando a los HFT convencionales y siendo aceptados por varios brokers que rechazan los HFT tradicionales"
+        },
+
+        "ForexArea": {
+            "title": "Qué hay de nuevo en Forex",
+
+            "subtitle": "Qué es Forex y cómo funciona",
+
+            "text": "Forex es la abreviatura de cambio de divisas, que es un mercado global descentralizado donde se negocian divisas. El mercado de divisas opera las 24 horas del día, cinco días a la semana, y mueve billones de dólares al día. Es el mercado financiero más grande y líquido de todos."
+        },
+
+        "FaqArea": {
+            "title": "Preguntas frecuentes",
+
+            "questioninstall": "¿Necesito instalar algún software?",
+
+            "answerinstall": "En Prophecy, nos enorgullece proporcionar una experiencia de software sin complicaciones. Queremos informarle que no necesita descargar nuestra aplicación para usar nuestro software. Nuestra plataforma web garantiza acceso instantáneo sin necesidad de instalaciones ni actualizaciones. Funciona sin problemas en todos los dispositivos de escritorio, ofrece seguridad mejorada y ahorra dinero en costos de instalación y mantenimiento. Para comenzar, simplemente visite nuestro sitio web y inicie sesión. ¡Es así de simple! Disfrute de la comodidad de nuestro software sin necesidad de descargas. Si tiene alguna pregunta o necesita ayuda, nuestro equipo de soporte está aquí para ayudar.",
+
+            "questionmeta": "¿Es necesario instalar MetaTrader 5?",
+
+            "answermeta": "Para utilizar nuestros servicios, es esencial tener MetaTrader 5 instalado en su dispositivo. Este software es crucial para acceder y disfrutar de todas las características y funcionalidades que ofrecemos. Asegúrese de tener MetaTrader 5 instalado antes de comenzar a utilizar nuestros servicios.",
+
+            "questionvalue": "¿Puedo comenzar a invertir con cualquier cantidad?",
+
+            "answervalue": "En el panorama financiero actual, es importante saber que puede comenzar su viaje de inversión con cualquier cantidad. En Prophecy, creemos en hacer la inversión accesible para todos, independientemente de su capital inicial. Con nuestra plataforma, no existen requisitos de inversión mínima. Ya sea que tenga una gran suma o una cantidad modesta para invertir, puede comenzar a invertir y construir su futuro financiero. Nuestra interfaz fácil de usar y las diversas opciones de inversión aseguran que pueda adaptar su estrategia de inversión a sus objetivos individuales y presupuesto. No deje que la idea errónea de que la inversión requiere una riqueza sustancial lo disuada de dar sus primeros pasos hacia el crecimiento financiero. Únase a nosotros en Prophecy y descubra lo fácil que es comenzar a invertir con la cantidad con la que se sienta cómodo. Su viaje financiero comienza aquí.",
+
+            "questionforex": "¿Por qué trabajamos con Forex en Prophecy?",
+
+            "answerforex": "En Prophecy, nuestra elección de trabajar con Forex está impulsada por sus características y oportunidades únicas. Forex se destaca por su alta liquidez, accesibilidad las 24 horas, una base diversa de participantes y el potencial para que los traders gestionen el riesgo de manera efectiva. El alcance global del mercado Forex, los avances tecnológicos y la transparencia se alinean con nuestro compromiso de ofrecer un entorno de trading seguro y educativo. Creemos que las características de Forex lo convierten en una plataforma ideal para que los traders persigan sus objetivos financieros, y estamos aquí para apoyarlos y guiarlos en su viaje. Únase a nosotros en Prophecy para explorar el mundo del trading de Forex y sus posibilidades.",
+
+            "questionsoftware": "¿Desea comenzar a usar nuestro software?",
+
+            "answersoftware": "Para comenzar con nuestro software, simplemente regístrese en nuestro sitio web. Crear una cuenta es un proceso rápido y sencillo, y es el primer paso para acceder a la gama completa de características y funcionalidades que ofrecemos. No se pierda los beneficios de nuestro software: ¡regístrese hoy y desbloquee un mundo de posibilidades."
+        },
+
+        "TeamArea": {
+            "title": "Nuestro equipo",
+
+            "subtitle": "El Liderazgo",
+
+            "companyposition1": "Director Ejecutivo",
+
+            "companyposition2": "Director Técnico",
+
+            "companyposition3": "Director Financiero",
+
+            "companyposition4": "Directora Jurídica",
+
+            "team": "Equipo"
+        },
+
+        "FooterComponent": {
+            "blessedcopy": "Blessed© 2023. Todos los derechos reservados.",
+
+            "scrolltop": "Desplazarse hacia arriba",
+
+            "terms": "Términos de Servicio",
+
+            "privacy": "Política de Privacidad"
+        },
+
+        "SlideShowArea": {
+            "previous": "Anterior",
+
+            "next": "Siguiente",
+
+            "subtitle": "A little bit of everything",
+
+            "titleslide1": "Presentación",
+
+            "textslide1": "Esta presentación de diapositivas es una exposición que contiene toda la información que necesita saber sobre nosotros, de manera concisa y directa para optimizar su tiempo y permitirle invertir más rápidamente con PROPHECY. Además, nuestro compromiso con la innovación no se detiene aquí. Continuamente evolucionamos nuestra tecnología para mantenernos a la vanguardia del escenario financiero. Nuestro equipo dedicado de expertos trabaja incansablemente para asegurarse de que HTS siga siendo una solución de vanguardia, proporcionándole las herramientas y capacidades necesarias para prosperar en el mundo dinámico de las finanzas. Y mucho más.",
+
+            "titleslide2": "Hybrid Trading System",
+
+            "textslide2": "HTS revoluciona el trading financiero con tecnologías avanzadas, como inteligencia artificial y lenguaje Python, además de la codificación de la API FIX 4.4, que permite al sistema obtener datos directamente de los bancos. Nuestro VPS se encuentra ubicado cerca de las IPs utilizadas en el mercado, lo que nos proporciona una ventaja competitiva gracias a la baja latencia. Además, HTS mejora la lógica del HFT al incorporar componentes para construir su arquitectura con una conexión ágil a la interfaz y la aplicación de inteligencia artificial. Refina los módulos utilizando la tecnología Smart Trailing Stop para optimizar la negociación, y para la comunicación de todo esto se utiliza un protocolo de intercambio de información financiera (API-FIX)",
+
+            "titleslide3": "Nuestras innovaciones",
+
+            "textslide3": "HTS utiliza tecnologías modernas como Python y ReactJS para crear una solución de trading avanzada y eficiente. Python se emplea en la construcción de una API componentizada que permite modularidad, flexibilidad y fácil integración con otros sistemas. ReactJS se utiliza en la creación de una interfaz modular, proporcionando una experiencia de usuario más interactiva y dinámica. Con esto, es posible dividir la interfaz en componentes independientes, facilitando el desarrollo, mantenimiento, cambio y actualización del sistema. Esta combinación de tecnologías permite a HTS ofrecer una solución de trading optimizada y adaptable a las necesidades de los inversionistas.",
+
+            "titleslide4": "Sobre lo Forex",
+
+            "textslide4": "En el mercado de Forex, las transacciones se realizan en pares de divisas, como el dólar y el euro, por ejemplo. A lo largo de 24 horas, el valor de cada moneda sube y baja en relación con la otra. Compras una moneda cuando está en baja y vendes cuando está en alza. Puede parecer fácil, pero no lo es. Es muy similar al day trading, donde los inversores realizan transacciones de compra y venta de acciones en el mismo día. Es rápido, pero arriesgado y requiere un monitoreo constante",
+
+            "titleslide5": "¿Por qué invertir con Prophecy?",
+
+            "textslide5": "El fundador y CEO de la startup, Kleber Busto, con más de 9 años de experiencia en operaciones profesionales, junto con su amigo, el arquitecto de software, Guilherme Toti, con más de 16 años de experiencia en programación avanzada, han diseñado un software de alta frecuencia único en el mercado financiero de divisas. Combinaron el trading de alta frecuencia con la inteligencia artificial cuantitativa, creando un sistema de trading híbrido. Esta herramienta, a través de acuerdos internacionales, tiene como objetivo lograr un promedio de ganancias mensuales del 7% al 13%, exponiendo menos del 2% del capital invertido. El software en cuestión es tan innovador que, hasta el momento presente, solo se conoce el sistema HFT y, aún así, está restringido a grandes bancos y proveedores de liquidez en todo el mundo.",
+
+            "titleslide6": "Inteligencia Artificial y Python",
+
+            "textslide6": "La Inteligencia Artificial (IA) es un campo de la informática que busca crear sistemas capaces de aprender y tomar decisiones sin intervención humana. Python es un lenguaje de programación popular para desarrollar soluciones de IA debido a su simplicidad y a una amplia biblioteca de herramientas especializadas. Con Python, los desarrolladores pueden implementar fácilmente algoritmos de aprendizaje automático y crear modelos de IA para resolver una variedad de problemas, desde el reconocimiento de imágenes hasta el procesamiento del lenguaje natural. Además de todo esto, cuenta con excelentes herramientas para el análisis de datos.",
+
+            "titleslide7": "React y sus Ventajas",
+
+            "textslide7": "React es una biblioteca de JavaScript ampliamente utilizada para crear interfaces de usuario interactivas y responsivas. Sus principales ventajas incluyen la creación de componentes reutilizables, un modelo de programación declarativo y una sólida comunidad de desarrolladores. Con React, es más fácil construir aplicaciones web escalables, ya que actualiza automáticamente la interfaz de usuario en respuesta a los cambios de estado, ofreciendo una experiencia más fluida para los usuarios y facilitando el mantenimiento del código.",
+
+            "titleslide8": "La Importancia de los Gráficos de Velas en Forex",
+
+            "textslide8": "En el mercado Forex, los gráficos de velas desempeñan un papel fundamental. Representan visualmente el movimiento de los precios de un par de divisas a lo largo del tiempo. Cada vela muestra la apertura, cierre, máximo y mínimo de un período específico, generalmente en intervalos de tiempo específicos, como minutos, horas o días. Los traders utilizan estos gráficos para identificar patrones y tendencias de precios, lo que ayuda a tomar decisiones informadas sobre cuándo comprar o vender divisas. Los gráficos de velas proporcionan información crucial para el análisis técnico, que es una parte esencial de una exitosa negociación en Forex.",
+
+            "titleslide9": "¿Qué es una API-FIX para Trading?",
+
+            "textslide9": "Una API-FIX para Trading es una herramienta digital que permite la integración de sistemas de negociación y plataformas de inversión. Sigue el estándar FIX (Financial Information eXchange), que se utiliza ampliamente en el mercado financiero para la comunicación entre diferentes sistemas. La API-FIX facilita la transmisión rápida y segura de información entre traders, corredoras e instituciones financieras, lo que permite una ejecución eficiente de operaciones de compra y venta de activos.",
+
+            "titleslide10": "Características de una API-FIX para Tradingg",
+
+            "textslide10": "Una API-FIX para Trading ofrece diversas características, como cotizaciones de mercado en tiempo real, ejecución de órdenes, gestión de cartera, acceso a historiales de transacciones y análisis de datos. Permite a los traders acceder a información crítica y tomar decisiones informadas basadas en las condiciones actuales del mercado. Además, la API-FIX puede personalizarse para satisfacer las necesidades específicas de cada trader o corredora.",
+
+            "titleslide11": "Beneficios de Utilizar una API-FIX para Trading",
+
+            "textslide11": "El uso de una API-FIX para Trading ofrece varios beneficios, incluida la automatización de procesos, la reducción del tiempo de ejecución de operaciones, el acceso a una amplia gama de instrumentos financieros y la posibilidad de implementar estrategias avanzadas de negociación. Además, la API-FIX permite una mayor flexibilidad y personalización en las operaciones, atendiendo a las necesidades individuales de cada trader e institución financiera. Promueve una integración efectiva entre sistemas, lo que contribuye a la eficiencia y la competitividad en el mercado financiero.",
+
+            "titleslide12": "Conclusión",
+
+            "textslide12": "La negociación de alta frecuencia (HFT) en Forex generalmente la llevan a cabo instituciones financieras, empresas especializadas y traders con acceso a recursos significativos, incluyendo infraestructura tecnológica y datos de mercado en tiempo real. Es importante destacar que las operaciones de HFT en Forex son altamente complejas y requieren un conocimiento avanzado del mercado, la tecnología y la gestión de riesgos. El HFT es más adecuado para traders e instituciones con experiencia significativa y recursos adecuados para enfrentar los desafíos específicos de este tipo de negociación."
+        }
+    }
+}

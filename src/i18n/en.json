@@ -1,0 +1,201 @@
+{
+    "translation": {
+        "HeaderComponent": {
+            "home": "Home",
+
+            "PT-BR": "EN-US",
+
+            "graphics": "Graphics",
+
+            "faq": "Faq",
+
+            "contactus": "Contact us",
+
+            "team": "Team",
+
+            "contact": "CONTACT",
+
+            "more": "More"
+        },
+
+        "BannerArea": {
+            "bannermain": "PROPHECY: The Evolution of High Frequency",
+
+            "bannerstart": "ICO Start"
+        },
+
+        "GraphArea": {
+            "title": "About Graphics",
+
+            "subtitle": "Real-Time Graphics for Forex",
+
+            "text": "Real-time Forex graphics offer traders immediate insights, enabling informed decisions and improved performance",
+
+            "subtext1": "Real-time Forex graphics offer immediate market insights for quick decisions",
+
+            "subtext2": "These graphics allow precise responses to market changes, improving strategies",
+
+            "subtext3": "Real-time data enhances performance and risk management",
+
+            "subtext4": "Traders can swiftly capitalize on opportunities for profit"
+        },
+
+        "ChooseArea": {
+            "title": "why Choose us",
+
+            "subtitle": "Why you choose our Prophecy",
+
+            "subtitlepayment": "Secure Payment for you",
+
+            "textpayment": "Our platform ensures secure payments, providing peace of mind for your financial transactions.",
+
+            "subtitletransfer": "Real-Time Forex transfer",
+
+            "texttransfer": "Access real-time Forex data, enabling informed decisions and timely trading.",
+
+            "subtitlemeta": "MetaTrader5 Integration",
+
+            "textmeta": "Seamless integration with MetaTrader streamlines your trading experience.",
+
+            "subtitlesecurity": "Transaction Security",
+
+            "textsecurity": "We prioritize transaction security, safeguarding your financial activities."
+        },
+
+        "ContactArea": {
+            "textcontact": "Get in Touch",
+
+            "Namecontact": "Name",
+
+            "messagecontact": "Message",
+
+            "messagesend": "Send Massage",
+
+            "emailcontact": "Email Address",
+
+            "talkcontact": "Lets Get in touch with us"
+        },
+
+        "NewsArea": {
+            "title": "what’s new about us",
+
+            "subtitle": "The Revolutionary Trading Platform That Surpasses Conventional HFTs",
+
+            "text": "HTS revolutionizes financial trading with advanced technologies, artificial intelligence and Python language. Features such as Smart Trailing Stop and virtual validations optimize the experience and performance of investors, surpassing conventional HFTs and being accepted by several brokers that reject traditional HFTs"
+        },
+
+        "ForexArea": {
+            "title": "what’s new about forex",
+
+            "subtitle": "What is Forex and how does it work",
+
+            "text": "Forex is short for foreign exchange, which is a decentralized global market where currencies are traded. The forex market operates 24 hours a day, five days a week, and moves trillions of dollars per day. It is the largest and most liquid of all financial markets."
+        },
+
+        "FaqArea": {
+            "title": "Frequently asked questions",
+
+            "questioninstall": "Do I need to install any software?",
+
+            "answerinstall": "At Prophecy, we take pride in providing a hassle-free software experience. We want to inform you that you don't need to download our application to use our software. Our web platform ensures instant access without the need for installations or updates. It works seamlessly on all desktop devices, offers enhanced security, and saves money on installation and maintenance costs. To get started, simply visit our website and log in. It's that simple! Enjoy the convenience of our software without the need for any downloads. If you have any questions or need assistance, our support team is here to help.",
+
+            "questionmeta": " MetaTrader 5 Installation Required?",
+
+            "answermeta": "To use our services, it's essential to have MetaTrader 5 installed on your device. This software is crucial for accessing and enjoying all the features and functionalities we offer. Please make sure to have MetaTrader 5 installed before you begin using our services.",
+
+            "questionvalue": "Can You Start Investing with Any Amount?",
+
+            "answervalue": "In today's financial landscape, it's important to know that you can begin your investment journey with any amount. At Prophecy, we believe in making investing accessible to everyone, regardless of their initial capital. With our platform, there are no minimum investment requirements. Whether you have a large sum or a modest amount to spare, you can start investing and building your financial future. Our user-friendly interface and diverse investment options ensure that you can tailor your investment strategy to match your individual goals and budget. Don't let the misconception that investing requires substantial wealth deter you from taking your first steps toward financial growth. Join us at Prophecy and discover how easy it is to start investing with any amount you're comfortable with. Your financial journey begins here.",
+
+            "questionforex": "Why We Work with Forex in Prophecy?",
+
+            "answerforex": "At Prophecy, our choice to work with Forex is driven by its unique characteristics and opportunities. Forex stands out for its high liquidity, accessibility around the clock, diverse participant base, and potential for traders to manage risk effectively. The Forex market's global reach, technological advancements, and transparency align with our commitment to offering a secure and educational trading environment. We believe that Forex's attributes make it an ideal platform for traders to pursue their financial goals, and we are here to support and guide them on their journey. Join us at Prophecy to explore the world of Forex trading and its possibilities.",
+
+            "questionsoftware": "Would you like to begin using our software?",
+
+            "answersoftware": "o get started with our software, simply register on our website. Creating an account is a quick and easy process, and it's the first step to access the full range of features and functionalities we offer. Don't miss out on the benefits of our software – sign up today and unlock a world of possibilities."
+        },
+
+        "TeamArea": {
+            "title": "Our team",
+
+            "subtitle": "The Leadership",
+
+            "companyposition1": "Chief Executive Officer",
+
+            "companyposition2": "Chief Technical Officer",
+
+            "companyposition3": "Chief Financial Officer",
+
+            "companyposition4": "Chief Legal Officer",
+
+            "team": "Team"
+        },
+
+        "FooterComponent": {
+            "blessedcopy": "Blessed© 2023. All Rights Reserved.",
+
+            "scrolltop": "Scroll to the top",
+
+            "terms": "Terms of Service",
+
+            "privacy": "Privacy Policy"
+        },
+
+        "SlideShowArea": {
+            "previous": "Previous",
+
+            "next": "Next",
+
+            "subtitle": "A little bit of everything",
+
+            "titleslide1": "Presentation",
+
+            "textslide1": "This slideshow is a presentation that contains all the information you need to know about us, made in a concise and straightforward manner to optimize your time and enable you to invest faster with PROPHECY. Additionally, our commitment to innovation doesn't stop here. We continuously evolve our technology stack to stay at the forefront of the financial trading landscape. Our dedicated team of experts works tirelessly to ensure that HTS remains a cutting-edge solution, providing you with the tools and capabilities needed to thrive in the dynamic world of finance. And more",
+
+            "titleslide2": "Hybrid Trading System",
+
+            "textslide2": "The HTS revolutionizes financial trading with advanced technologies such as artificial intelligence and Python language, as well as FIX 4.4 API coding, enabling the system to retrieve data directly from banks. Our VPS is located near the IPs used in the market, giving us a competitive advantage thanks to low latency. Moreover, HTS enhances HFT logic by incorporating components to build its architecture with agile connectivity to the interface and the application of artificial intelligence. It refines modules using Smart Trailing Stop technology to optimize trading, and all of this is communicated using a financial information exchange protocol (FIX API).",
+
+            "titleslide3": "Our Innovations",
+
+            "textslide3": "The HTS leverages modern technologies such as Python and ReactJS to create an advanced and efficient trading solution. Python is employed in building a modularized API, enabling modularity, flexibility, and easy integration with other systems. ReactJS is used in crafting a modular interface, providing a more interactive and dynamic user experience. With this, it's possible to break the interface into independent components, simplifying the development, maintenance, changes, and updates of the system. This combination of technologies allows HTS to offer a trading solution optimized and adaptable to investors' needs",
+
+            "titleslide4": "About Forex",
+
+            "textslide4": "In the Forex market, transactions are conducted in currency pairs, such as the dollar and the euro, for example. Over the course of 24 hours, the value of each currency rises and falls in relation to the other. You buy a currency when it's low and sell when it's high. It may seem easy, but it's not. It's very much like Day trading where investors carry out buy and sell transactions of stocks within the same day. It's fast-paced, but risky and requires constant monitoring",
+
+            "titleslide5": "Why invest with Prophecy?",
+
+            "textslide5": "The founder and CEO of the startup, Kleber Busto, with over 9 years of experience in professional operations, along with his friend, the software architect, Guilherme Toti, with over 16 years of experience in advanced programming, have designed a unique high-frequency software in the foreign exchange financial market. They combined high-frequency trading with quantitative AI, creating a hybrid trading system. This tool, through international agreements, aims to achieve an average monthly profit of 7% to 13%, exposing less than 2% of the invested capital. The software in question is so innovative that, up to the present moment, only the HFT system is known, and even then, it is restricted to large banks and liquidity providers around the world.",
+
+            "titleslide6": "Artificial Intelligence and Python",
+
+            "textslide6": "Artificial Intelligence (AI) is a field of computer science that aims to create systems capable of learning and making decisions without human intervention. Python is a popular programming language for developing AI solutions due to its simplicity and a vast library of specialized tools. With Python, developers can easily implement machine learning algorithms and create AI models to solve a variety of problems, from image recognition to natural language processing. In addition to all this, it has excellent tools for data analysis.",
+
+            "titleslide7": "React and Its Advantages",
+
+            "textslide7": "React is a widely used JavaScript library for creating interactive and responsive user interfaces. Its main advantages include the creation of reusable components, a declarative programming model, and a strong developer community. With React, it's easier to build scalable web applications as it automatically updates the user interface in response to state changes, providing a smoother experience for users and making code maintenance easier.",
+
+            "titleslide8": "The Importance of Candlestick Charts in Forex",
+
+            "textslide8": "In the Forex market, candlestick charts play a fundamental role. They visually represent the price movement of a currency pair over time. Each candle shows the opening, closing, high, and low of a specific period, usually at specific time intervals, such as minutes, hours, or days. Traders use these charts to identify price patterns and trends, which helps make informed decisions on when to buy or sell currencies. Candlestick charts provide crucial information for technical analysis, which is an essential part of successful Forex trading.",
+
+            "titleslide9": "What Is a FIX API for Trading",
+
+            "textslide9": "A FIX API for Trading is a digital tool that allows the integration of trading systems and investment platforms. It follows the FIX (Financial Information eXchange) standard, which is widely used in the financial market for communication between different systems. The FIX API facilitates the fast and secure transmission of information between traders, brokers, and financial institutions, enabling efficient execution of buy and sell operations.",
+
+            "titleslide10": "Features of a FIX API for Trading",
+
+            "textslide10": "A FIX API for Trading offers various features, such as real-time market quotes, order execution, portfolio management, access to transaction history, and data analysis. It allows traders to access critical information and make informed decisions based on current market conditions. Additionally, the FIX API can be customized to meet the specific needs of each trader or brokerage.",
+
+            "titleslide11": "Benefits of Using a FIX API for Trading",
+
+            "textslide11": "Using a FIX API for Trading offers several benefits, including process automation, reduced execution time for operations, access to a wide range of financial instruments, and the ability to implement advanced trading strategies. Furthermore, the FIX API enables greater flexibility and customization in trading, catering to the individual needs of each trader and financial institution. It promotes effective integration between systems, contributing to efficiency and competitiveness in the financial market.",
+
+            "titleslide12": "Conclusion",
+
+            "textslide12": "High-Frequency Trading (HFT) in Forex is typically carried out by financial institutions, specialized companies, and traders with access to significant resources, including technological infrastructure and real-time market data. It is important to highlight that HFT operations in Forex are highly complex and require advanced knowledge of the market, technology, and risk management. HFT is best suited for traders and institutions with substantial experience and adequate resources to deal with the specific challenges of this type of trading."
+        }
+    }
+}
