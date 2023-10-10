@@ -22,13 +22,13 @@ const team: TeamMember[] = [
         imageUrl: "/images/team/guilherbg.png",
     },
     {
-        office: "companyposition3",
-        name: "Fábio Soares",
+        office: "companyposition4",
+        name: "Beatriz Busto",
         imageUrl: "/images/team/beatrizbg.png",
     },
     {
-        office: "companyposition4",
-        name: "Beatriz Busto",
+        office: "companyposition3",
+        name: "Fábio Soares",
         imageUrl: "/images/team/fabiobg.png",
     },
 ];
