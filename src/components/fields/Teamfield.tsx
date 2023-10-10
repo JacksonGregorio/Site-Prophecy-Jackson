@@ -52,8 +52,8 @@ function TeamComponent() {
                     </div>
                 </div>
                 <div className="row justify-content-center">
-                    {team.map((team) => (
-                        <div className="col-xl-3 col-md-4 col-sm-6">
+                    {team.map((team, index) => (
+                        <div className="col-xl-3 col-md-4 col-sm-6" key={index}>
                             <div className="team-item">
                                 <div className="team-thumb">
                                     <Image src={team.imageUrl} alt=""

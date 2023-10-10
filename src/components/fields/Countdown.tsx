@@ -37,9 +37,9 @@ function CountComponent() {
 
     useEffect(() => {
         const interval = setInterval(calculateTimeRemaining, 1000);
-
+    
         return () => clearInterval(interval);
-    }, []);
+    }, [calculateTimeRemaining]);
 
     return (
         <div className="coming-time">
