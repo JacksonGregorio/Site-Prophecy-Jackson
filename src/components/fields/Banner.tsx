@@ -57,9 +57,9 @@ function BannerComponent() {
                                     className="progress-bar"
                                     role="progressbar"
                                     style={{ width: "75%" }}
-                                    aria-valuenow="75"
-                                    aria-valuemin="0"
-                                    aria-valuemax="100"
+                                    aria-valuenow={parseInt("75")} 
+                                    aria-valuemin={parseInt("0")} 
+                                    aria-valuemax={parseInt("100")} 
                                 ></div>
                             </div>
                             <h4 className="title">
